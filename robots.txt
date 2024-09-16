@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://dekyiivz.github.io/sitemap/sitemap.txt
